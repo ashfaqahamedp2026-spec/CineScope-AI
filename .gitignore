@@ -1,0 +1,5 @@
+.env
+.streamlit/secrets.toml
+user_reviews.csv
+__pycache__/
+*.pyc
